@@ -2,8 +2,8 @@
 
 # I'm **Ameet Kumar Mishra**
 
-# 💫 About Me:
-<br>👨‍💻 I'm currently working on:  <br>Building scalable and user-friendly web applications using the MERN stack, exploring cloud solutions with AWS, and enhancing deployment pipelines with Docker, Kubernetes, and Terraform.  <br><br>🤝 I'm looking to collaborate on:  <br>Exciting open-source projects, backend-heavy applications, or innovative startups that require a tech-driven solution.  <br><br>💡 I'm looking for help with: <br>Getting freelance or part-time projects to apply my skills and contribute to impactful tech solutions.  <br><br>🌱 I'm currently learning:  <br>Advanced Nginx configurations, Prisma ORM, edge computing with Cloudflare, and mastering serverless technologies.  <br><br>💬 Ask me about: <br>Full-stack development, cloud architecture, serverless deployments, or anything related to solving complex technical challenges.  <br><br>⚡ Fun fact:<br>I led a project under ADRDE (DRDO), where my team successfully developed a mini-parachute launcher.  <br><br>📌 Connect with me:  <br>- LinkedIn: [ameet-kumar-mishra-a2bbb8230](https://www.linkedin.com/in/ameet-kumar-mishra-a2bbb8230)  <br>- GitHub: [Ameet407](https://github.com/Ameet407)  <br><br>
+# About Me
+<br>**Who I am:** <br>I am a software engineer, and I keep building stuff.  <br><br>**Ask me about:** <br>Software engineering, product development, or solving tricky technical challenges.  <br><br>**Fun fact:**<br>I led a project under ADRDE (DRDO), where my team successfully developed a mini-parachute launcher.  <br><br>📌 **Connect with me:**  <br>- LinkedIn: [ameet-kumar-mishra-a2bbb8230](https://www.linkedin.com/in/ameet-kumar-mishra-a2bbb8230)  <br>- GitHub: [Ameet407](https://github.com/Ameet407)  <br><br>
 
 
 ## 🌐 Socials:
