@@ -3,7 +3,9 @@
 # I'm **Ameet Kumar Mishra**
 
 # About Me
-<br>**Who I am:** <br>I am a software engineer, and I keep building stuff.  <br><br>**Ask me about:** <br>Software engineering, product development, or solving tricky technical challenges.  <br><br>**Fun fact:**<br>I led a project under ADRDE (DRDO), where my team successfully developed a mini-parachute launcher.  <br><br>📌 **Connect with me:**  <br>- LinkedIn: [ameet-kumar-mishra-a2bbb8230](https://www.linkedin.com/in/ameet-kumar-mishra-a2bbb8230)  <br>- GitHub: [Ameet407](https://github.com/Ameet407)  <br><br>
+<br>**Who I am:** <br>I am a software engineer, and I keep building stuff.  <br><br>**Ask me about:** <br>Software engineering, product development, or solving tricky technical challenges.  <br><br>**Fun fact:**<br>I led a project under ADRDE (DRDO), where my team successfully developed a mini-parachute launcher.  <br><br>📌 **Connect with me:**  <br>
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ameet-kumar-mishra-a2bbb8230)  <br>
+- Portfolio: [My Portfolio](https://portfolio-ameet.vercel.app/)
 
 
 ## 🌐 Socials:
